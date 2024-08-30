@@ -1,0 +1,3 @@
+fastapi==0.110.1 
+uvicorn==0.15.0
+slowapi[redis]==0.1.9
